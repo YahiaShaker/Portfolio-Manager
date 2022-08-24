@@ -1,0 +1,3 @@
+pycoingecko
+rich
+pytest
